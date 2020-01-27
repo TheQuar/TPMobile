@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/myDate" android:title="Mening ma'lumotlarim" android:icon="@drawable/user_info"/>
+    <item android:id="@+id/advertisement" android:title="E'lonlarim" android:icon="@drawable/user_elon"/>
+    <item android:id="@+id/setting" android:title="Sozlamalar" android:icon="@drawable/user_setting"/>
+    <item android:id="@+id/exit" android:title="Chiqish" android:icon="@drawable/user_exit"/>
+
+</menu>
